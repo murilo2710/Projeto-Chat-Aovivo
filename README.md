@@ -19,5 +19,4 @@ Projeto desenvolvido no 2º semestre da PUC-PR: um **sistema de chat em rede** c
 - **Threading**: Gerenciamento de múltiplos clientes simultaneamente.
 - **Tkinter**: Interface gráfica básica para o chat.
 
-## 🧩 Estrutura do Projeto
 
